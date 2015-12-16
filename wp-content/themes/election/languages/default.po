@@ -1,0 +1,2270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Default\n"
+"POT-Creation-Date: 2015-08-22 21:43+0530\n"
+"PO-Revision-Date: 2015-08-22 21:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../framework\n"
+"X-Poedit-SearchPath-2: ../includes\n"
+"X-Poedit-SearchPath-3: ../woocommerce\n"
+"X-Poedit-SearchPath-4: ../templates\n"
+
+#: ../author.php:36 ../single.php:78
+msgid "Author: "
+msgstr ""
+
+#: ../author.php:46 ../tribe-events/swm-custom/swm-event-functions.php:118
+msgid "Website:"
+msgstr ""
+
+#: ../comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Comments are disabled."
+msgstr ""
+
+#: ../comments.php:93
+msgid "<span>Leave a Reply</span>"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:143
+msgid "Shop"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:288
+msgid "g:i a"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:291
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:291
+msgid "i"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:294
+msgid "g a"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:305 ../framework/breadcrumbs.php:311
+#: ../framework/breadcrumbs.php:316 ../framework/breadcrumbs.php:321
+#: ../framework/breadcrumbs.php:406
+msgid "Y"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:306 ../framework/breadcrumbs.php:317
+#: ../framework/breadcrumbs.php:410
+msgid "F"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:307 ../framework/breadcrumbs.php:414
+msgid "d"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:312
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:328
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:333
+msgid "404 Not Found"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:338 ../framework/breadcrumbs.php:340
+#: ../framework/breadcrumbs.php:342 ../framework/breadcrumbs.php:344
+#: ../framework/breadcrumbs.php:346 ../framework/breadcrumbs.php:348
+#: ../framework/breadcrumbs.php:350 ../framework/breadcrumbs.php:352
+#: ../framework/breadcrumbs.php:357 ../framework/breadcrumbs.php:359
+#: ../framework/breadcrumbs.php:361 ../framework/general-functions.php:1508
+msgid "Events"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:16
+msgid "Customizer"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:17
+msgid "Customizer Import"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:17
+msgid "Import"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:18
+msgid "Customizer Export"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:18
+msgid "Export"
+msgstr ""
+
+#: ../framework/customizer/import-export.php:25
+msgid "All options were restored successfully!"
+msgstr ""
+
+#: ../framework/customizer/import-export.php:27
+msgid "Invalid file or file size too big."
+msgstr ""
+
+#: ../framework/customizer/import-export.php:34
+msgid ""
+"Click \"Choose File\" button and choose a JSON file from your computer that "
+"you backup before."
+msgstr ""
+
+#: ../framework/customizer/import-export.php:57
+msgid ""
+"When you click the button below WordPress will create an JSON file for you "
+"to save to your computer."
+msgstr ""
+
+#: ../framework/customizer/import-export.php:58
+msgid ""
+"This format, which we call WordPress Customizer Settings, will contain your "
+"customizer settings for this theme."
+msgstr ""
+
+#: ../framework/customizer/import-export.php:60
+msgid ""
+"Once you have saved the download file, you can use the Customizer Import "
+"function to import previously exported settings."
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:8
+msgid "Blog"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:13
+#: ../framework/customizer/options/event.php:13
+#: ../framework/meta-box-options.php:38
+#: ../woocommerce/swm-custom/woo-admin-options.php:23
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:14
+#: ../framework/customizer/options/event.php:14
+#: ../framework/meta-box-options.php:39
+#: ../woocommerce/swm-custom/woo-admin-options.php:24
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:15
+#: ../framework/customizer/options/blog.php:21
+#: ../framework/customizer/options/blog.php:26
+#: ../framework/customizer/options/event.php:15
+#: ../framework/meta-box-options.php:40
+#: ../woocommerce/swm-custom/woo-admin-options.php:22
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:19
+#: ../framework/customizer/options/blog.php:25
+#: ../framework/customizer/options/blog.php:116
+#: ../framework/meta-box-options.php:171 ../framework/meta-box-options.php:223
+msgid "Standard"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:20
+msgid "Grid"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:30
+#: ../framework/meta-box-options.php:211
+msgid "2 Column"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:31
+#: ../framework/meta-box-options.php:212
+msgid "3 Column"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:32
+#: ../framework/meta-box-options.php:213
+msgid "4 Column"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:41
+msgid "Default Blog Layout"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:51
+msgid ""
+"Select your preferred layout for blog pages like archive, categories, author "
+"and tags etc. blog pages."
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:64
+msgid "Blog Style"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:76
+msgid "Blog Grid Column"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:90
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:101
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:112
+msgid "Pagination Style"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:117
+#: ../framework/meta-box-options.php:172 ../framework/meta-box-options.php:224
+msgid "Next - Previous"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:118
+#: ../framework/meta-box-options.php:173 ../framework/meta-box-options.php:225
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:128
+msgid "How Many Multiple Featued Images"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:139
+msgid "Exclude Categories from Blog"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:148
+msgid "Add category IDs, seperated by commas. ( e.g. 1,34,55 )"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:161
+msgid "Enable Post Year in Date Box"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:174
+msgid "Blog Single Page"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:187
+msgid "Display Featured Image/Video"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:198
+msgid "Display About Author Box"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:209
+msgid "Display Post Comments"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:220
+msgid "Featured Image Lightbox"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:231
+msgid "Single Page Title"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:240
+msgid ""
+"Leave above field blank to display default post title in header section."
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:253
+msgid "Blog Page URL"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:262
+msgid "Enter the URL to blog main page to use in breadcrumbs."
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:278
+msgid "Author Page"
+msgstr ""
+
+#: ../framework/customizer/options/blog.php:291
+msgid "Display Author Biographical Info"
+msgstr ""
+
+#: ../framework/customizer/options/custom-css-js.php:8
+msgid "Custom CSS Javascripts"
+msgstr ""
+
+#: ../framework/customizer/options/custom-css-js.php:16
+msgid ""
+"You can use this section to add quick css and javascripts for minor changes. "
+"Please use custom.css for major portions css changes."
+msgstr ""
+
+#: ../framework/customizer/options/custom-css-js.php:27
+msgid "CSS"
+msgstr ""
+
+#: ../framework/customizer/options/custom-css-js.php:38
+msgid "Javascript"
+msgstr ""
+
+#: ../framework/customizer/options/error-page.php:8
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/customizer/options/error-page.php:18
+msgid "Error 404 Title Text"
+msgstr ""
+
+#: ../framework/customizer/options/error-page.php:27
+msgid "Error 404 Message"
+msgstr ""
+
+#: ../framework/customizer/options/error-page.php:38
+msgid "Error 404 Image"
+msgstr ""
+
+#: ../framework/customizer/options/event.php:8
+msgid "The Event Calendar Plugin"
+msgstr ""
+
+#: ../framework/customizer/options/event.php:24
+msgid "Default Event Page Layout"
+msgstr ""
+
+#: ../framework/customizer/options/favicon.php:8
+msgid "Favicon"
+msgstr ""
+
+#: ../framework/customizer/options/favicon.php:18
+msgid ""
+"Upload 32x32 size favicon.ico image from admin > media section and get "
+"favicion.ico image URL to paste in \"Favicon .ico image URL\" section."
+msgstr ""
+
+#: ../framework/customizer/options/favicon.php:34
+msgid "Favicon \".ico\" image URL - 32x32"
+msgstr ""
+
+#: ../framework/customizer/options/favicon.php:45
+msgid "Touch Icon (iOS &amp; Android) - 152x152"
+msgstr ""
+
+#: ../framework/customizer/options/favicon.php:58
+msgid "Tile Icon (Microsoft) - 144x144"
+msgstr ""
+
+#: ../framework/customizer/options/favicon.php:73
+msgid "Tile Icon Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:16
+msgid "Thin"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:17
+msgid "Thin Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:18
+msgid "Light"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:19
+msgid "Light Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:20
+msgid "Book"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:21
+msgid "Book Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:22
+msgid "Regular"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:23
+msgid "Regular Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:24
+msgid "Medium"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:25
+msgid "Medium Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:26
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:27
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:28
+#: ../framework/meta-box-options.php:121
+msgid "Bold"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:29
+msgid "Bold Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:30
+msgid "Extra Bold"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:31
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:32
+msgid "Ultra Bold"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:33
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:37
+msgid "Fonts"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:45
+msgid "Google Fonts"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:62
+msgid "Activate Google Fonts"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:75
+msgid "Enable Subsets"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:86
+msgid "Cyrillic"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:97
+msgid "Greek"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:108
+msgid "Vietnamese"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:116
+#: ../framework/customizer/options/fonts.php:215
+msgid "Body "
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:117
+#: ../framework/customizer/options/fonts.php:216
+#: ../framework/customizer/options/fonts.php:281
+msgid "Top Navigation"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:118
+#: ../framework/customizer/options/fonts.php:217
+msgid "Headings (H1,H2,H3...)"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:172
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:183
+msgid ""
+"If you don't want to use Google fonts for body, top navigation or headings "
+"then select system's standard fonts and font weight."
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:272
+msgid "Font Size and Color"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:280
+msgid "Body"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:282
+msgid "Top Bar Small Navigation"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:283
+msgid "Page Title (Header Section)"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:284
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:285
+msgid "Footer Widget Title"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:286
+msgid "Footer Text"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:287
+#: ../framework/customizer/options/footer.php:166
+msgid "Small Footer"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:288
+msgid "Blog Post Title"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:289
+msgid "Heading H1"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:290
+msgid "Heading H2"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:291
+msgid "Heading H3"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:292
+msgid "Heading H4"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:293
+msgid "Heading H5"
+msgstr ""
+
+#: ../framework/customizer/options/fonts.php:294
+msgid "Heading H6"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:8
+msgid "Footer"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:22
+msgid "Display Large Footer"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:43
+#: ../framework/general-functions.php:247
+msgid "Footer Column"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:59
+msgid "Primary Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:72
+msgid "Secondary Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:83
+#: ../framework/customizer/options/header.php:101
+#: ../framework/customizer/options/styling.php:84
+msgid "Background Image"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:96
+#: ../framework/customizer/options/styling.php:99
+msgid "Image Position"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:100
+#: ../framework/customizer/options/header.php:118
+#: ../framework/customizer/options/styling.php:103
+#: ../framework/meta-box-options.php:25
+msgid "Left Top"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:101
+#: ../framework/customizer/options/header.php:119
+#: ../framework/customizer/options/styling.php:104
+#: ../framework/meta-box-options.php:26
+msgid "Left Center"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:102
+#: ../framework/customizer/options/header.php:120
+#: ../framework/customizer/options/styling.php:105
+#: ../framework/meta-box-options.php:27
+msgid "Left Bottom"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:103
+#: ../framework/customizer/options/header.php:121
+#: ../framework/customizer/options/styling.php:106
+#: ../framework/meta-box-options.php:28
+msgid "Right Top"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:104
+#: ../framework/customizer/options/header.php:122
+#: ../framework/customizer/options/styling.php:107
+#: ../framework/meta-box-options.php:29
+msgid "Right Center"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:105
+#: ../framework/customizer/options/header.php:123
+#: ../framework/customizer/options/styling.php:108
+#: ../framework/meta-box-options.php:30
+msgid "Right Bottom"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:106
+#: ../framework/customizer/options/header.php:124
+#: ../framework/customizer/options/styling.php:109
+#: ../framework/meta-box-options.php:31
+msgid "Center Top"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:107
+#: ../framework/customizer/options/header.php:125
+#: ../framework/customizer/options/styling.php:110
+#: ../framework/meta-box-options.php:32
+msgid "Center Center"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:108
+#: ../framework/customizer/options/header.php:126
+#: ../framework/customizer/options/styling.php:111
+#: ../framework/meta-box-options.php:33
+msgid "Center Bottom"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:118
+#: ../framework/customizer/options/styling.php:123
+msgid "Image Repeat"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:122
+#: ../framework/customizer/options/header.php:140
+#: ../framework/customizer/options/styling.php:127
+#: ../framework/meta-box-options.php:17
+msgid "Repeat"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:123
+#: ../framework/customizer/options/header.php:141
+#: ../framework/customizer/options/styling.php:128
+msgid "No Repeat"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:124
+#: ../framework/customizer/options/header.php:142
+#: ../framework/customizer/options/styling.php:129
+msgid "Repeat X"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:125
+#: ../framework/customizer/options/header.php:143
+#: ../framework/customizer/options/styling.php:130
+msgid "Repeat Y"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:126
+#: ../framework/customizer/options/header.php:158
+#: ../framework/customizer/options/styling.php:147
+#: ../framework/meta-box-options.php:46
+msgid "Fixed"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:140
+msgid "Footer Borders Color"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:153
+msgid "Footer Links Hover Color"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:179
+msgid "Display Small Footer"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:190
+#: ../framework/customizer/options/header.php:47
+#: ../framework/customizer/options/header.php:90
+#: ../framework/customizer/options/main-navigation.php:56
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:204
+#: ../framework/customizer/options/header.php:60
+msgid "Background Color Opacity (%)"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:217
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/customizer/options/footer.php:230
+msgid "Copyright Info"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:8
+msgid "General"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:22
+#: ../framework/meta-box-options.php:332
+msgid "Site Layout"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:26
+#: ../framework/meta-box-options.php:338
+msgid "Wide (Full Width)"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:27
+#: ../framework/meta-box-options.php:339
+msgid "Boxed"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:37
+msgid "Google Analytical Code"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:48
+msgid "On / Off ( Enable / Disable )"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:58
+msgid "Display Search Icon in Top Bar"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:59
+msgid "Display Cart Icon in Top Bar"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:60
+msgid "Display Scroll To Top Arrow Icon"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:61
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: ../framework/customizer/options/general.php:62
+msgid "Display Comments in Pages"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:8
+msgid "Header"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:23
+msgid "Page title font size and color you can set from \"Fonts\" section"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:34
+#: ../framework/meta-box-options.php:378 ../framework/meta-box-options.php:382
+msgid "Page Title"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:76
+msgid "Header Background"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:114
+msgid "Background Position"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:136
+msgid "Background Repeat"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:153
+msgid "Background Attachment"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:157
+#: ../framework/customizer/options/styling.php:146
+#: ../framework/meta-box-options.php:45
+msgid "Scroll"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:168
+#: ../framework/customizer/options/styling.php:157
+msgid "100% Background Image Width"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:182
+#: ../framework/meta-box-options.php:485
+msgid "Header Height"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:196
+msgid "Enable Parallax Scrolling"
+msgstr ""
+
+#: ../framework/customizer/options/header.php:208
+#: ../framework/meta-box-options.php:474
+msgid "Background Image Scroll Speed"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:8
+msgid "Image Height"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:17
+msgid ""
+"Note: After changing the image heights, rebuild all thumbnails with "
+"\"Regenerate Thumbnails\" plugin"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:26
+msgid "Portfolio 2 Column"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:27
+msgid "Portfolio 3 Column"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:28
+msgid "Portfolio 4 Column"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:29
+msgid "Blog with Sidebar Post"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:30
+msgid "Blog Grid Post"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:31
+msgid "Blog Fullwidth Post"
+msgstr ""
+
+#: ../framework/customizer/options/image-height.php:45
+#: ../framework/customizer/options/main-navigation.php:262
+#, php-format
+msgid "Link %s Icon"
+msgstr ""
+
+#: ../framework/customizer/options/logo.php:8
+msgid "Logo"
+msgstr ""
+
+#: ../framework/customizer/options/logo.php:19
+msgid ""
+"Upload standard and retina logo as per given sizes. If you do not want to "
+"add retina logo then leave it blank to display standard logo in all devices. "
+"Logo section background color is necessary for sticky menu effect."
+msgstr ""
+
+#: ../framework/customizer/options/logo.php:33
+msgid "Standard Logo Image (Size : 300x118) "
+msgstr ""
+
+#: ../framework/customizer/options/logo.php:47
+msgid "Retina Logo Image (Size : 600x236)"
+msgstr ""
+
+#: ../framework/customizer/options/logo.php:62
+msgid "Logo Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:8
+#: ../framework/general-functions.php:44
+msgid "Main Navigation"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:19
+msgid "Enable Sticky Navigation Style"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:32
+msgid "Navigation Background"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:43
+msgid ""
+"Navigation background will display besid logo section which includes top bar "
+"and main navigation links."
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:69
+#: ../framework/meta-box-options.php:401
+msgid "Background Color Opacity"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:84
+msgid "Donate Button Styling"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:95
+msgid ""
+"You can add button style for last navigation link to get visitors attention."
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:109
+msgid "Enable Donate Button Style"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:121
+msgid "Button Text Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:135
+msgid "Button Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:149
+msgid "Button Mouseover Text Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:163
+msgid "Button Mouseover Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:178
+msgid "Active Link Styling"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:192
+msgid "Display Active Link"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:205
+msgid "Active Link Arrow Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:220
+msgid "Active Link Icon Color"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:235
+msgid "Active Link Arrow Opacity"
+msgstr ""
+
+#: ../framework/customizer/options/main-navigation.php:248
+msgid "Get icon names from URL : http://fontawesome.io/icons/"
+msgstr ""
+
+#: ../framework/customizer/options/portfolio.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/customizer/options/portfolio.php:18
+msgid "Portfolio Page Title"
+msgstr ""
+
+#: ../framework/customizer/options/portfolio.php:27
+msgid ""
+"Enter portfolio page title to display in portfolio single page breadcrumbs "
+"section."
+msgstr ""
+
+#: ../framework/customizer/options/portfolio.php:40
+msgid "Portfolio Page URL"
+msgstr ""
+
+#: ../framework/customizer/options/portfolio.php:49
+msgid "Enter the URL to portfolio main page to use in breadcrumbs. "
+msgstr ""
+
+#: ../framework/customizer/options/portfolio.php:62
+msgid "Enable Comments in Portfolio Single"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:8
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:18
+msgid "Open media websites in new window"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "YouTube"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Delicious"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Flickr"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Digg"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "LinkedIn"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Blogger"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Technorati"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Apple"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Dropbox"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Amazon"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Picasa"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Skype"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "deviantART"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Windows"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Tumblr"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:23
+#: ../framework/general-functions.php:181
+msgid "Lastfm"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Yahoo"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Wordpress"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Dribble"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Forest"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Google"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "GooglePlus"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "AppleStore"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Instagram"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "Myspace"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "SoundCloud"
+msgstr ""
+
+#: ../framework/customizer/options/social-media-icons.php:24
+#: ../framework/general-functions.php:182
+msgid "RSS"
+msgstr ""
+
+#: ../framework/customizer/options/styling.php:8
+msgid "Styling"
+msgstr ""
+
+#: ../framework/customizer/options/styling.php:22
+msgid "Primary Skin Color"
+msgstr ""
+
+#: ../framework/customizer/options/styling.php:37
+msgid "Secondary Skin Color"
+msgstr ""
+
+#: ../framework/customizer/options/styling.php:54
+#: ../framework/meta-box-options.php:507
+msgid "Body Background"
+msgstr ""
+
+#: ../framework/customizer/options/styling.php:70
+#: ../framework/meta-box-options.php:545
+msgid "Body Background Color"
+msgstr ""
+
+#: ../framework/customizer/options/styling.php:142
+msgid "Attachment"
+msgstr ""
+
+#: ../framework/general-functions.php:45
+msgid "Top Bar Navigation"
+msgstr ""
+
+#: ../framework/general-functions.php:46
+msgid "Small Footer Navigation"
+msgstr ""
+
+#: ../framework/general-functions.php:47
+msgid "Portfolio Horizontal Menu"
+msgstr ""
+
+#: ../framework/general-functions.php:115
+msgid ""
+"<ul><li class=\"menu-setting-msg\">Set Top Menu from Wordpress Admin > "
+"Appearance > Menus > \"Manage Locations\" Box</li><li class=\"menu-setting-"
+"msg2\">Add Top Menu icon from Wordpress Admin > Customizer > Main Navigation "
+"> Active Link Styling</li></ul>"
+msgstr ""
+
+#: ../framework/general-functions.php:121
+msgid ""
+"<ul><li class=\"footer_menu-setting-msg\">Set Footer Menu from Wordpress "
+"Admin > Appearance > Menus > \"Manage Locations\" Box</li></ul>"
+msgstr ""
+
+#: ../framework/general-functions.php:157 ../templates/testimonials.php:48
+msgid "All"
+msgstr ""
+
+#: ../framework/general-functions.php:246
+msgid ""
+"Replace this sample widget with your desired widget from WordPress Admin > "
+"Appearance > Widgets Page by drag and drop in Footer Column "
+msgstr ""
+
+#: ../framework/general-functions.php:609
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/general-functions.php:624
+#: ../framework/general-functions.php:1549
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../framework/general-functions.php:628
+#, php-format
+msgid "%1$s at %2$s "
+msgstr ""
+
+#: ../framework/general-functions.php:632
+#: ../framework/general-functions.php:649
+msgid "(Edit)"
+msgstr ""
+
+#: ../framework/general-functions.php:649
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/general-functions.php:924
+#: ../framework/general-functions.php:935
+#: ../framework/general-functions.php:1009
+#: ../framework/general-functions.php:1016
+msgid "Comments"
+msgstr ""
+
+#: ../framework/general-functions.php:953
+#: ../framework/general-functions.php:964
+msgid "Read more"
+msgstr ""
+
+#: ../framework/general-functions.php:1116
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../framework/general-functions.php:1184
+msgid "Previous"
+msgstr ""
+
+#: ../framework/general-functions.php:1187
+#: ../woocommerce/swm-custom/woo-functions.php:299
+msgid "Next"
+msgstr ""
+
+#: ../framework/general-functions.php:1225
+msgid "Loading..."
+msgstr ""
+
+#: ../framework/general-functions.php:1280
+msgid "No Results Found for \""
+msgstr ""
+
+#: ../framework/general-functions.php:1281
+msgid ""
+" We're sorry, but the page you requested could not be found. Try refining "
+"your search, or use the navigation above to locate the post."
+msgstr ""
+
+#: ../framework/general-functions.php:1437
+#: ../framework/general-functions.php:1440
+#: ../framework/general-functions.php:1443
+#, php-format
+msgid "Archive: %s"
+msgstr ""
+
+#: ../framework/general-functions.php:1446
+msgid "Author Archives"
+msgstr ""
+
+#: ../framework/general-functions.php:1460 ../header.php:57
+#: ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../framework/meta-box-options.php:18
+msgid "No-Repeat"
+msgstr ""
+
+#: ../framework/meta-box-options.php:19
+msgid "Repeat-X"
+msgstr ""
+
+#: ../framework/meta-box-options.php:20
+msgid "Repeat-Y"
+msgstr ""
+
+#: ../framework/meta-box-options.php:57
+msgid "Portfolio Page Options"
+msgstr ""
+
+#: ../framework/meta-box-options.php:66
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../framework/meta-box-options.php:67
+msgid "Select Portfolio type"
+msgstr ""
+
+#: ../framework/meta-box-options.php:72
+msgid "Sortable Portfolio"
+msgstr ""
+
+#: ../framework/meta-box-options.php:73
+msgid "Classic Portfolio"
+msgstr ""
+
+#: ../framework/meta-box-options.php:77
+msgid "Portfolio Column"
+msgstr ""
+
+#: ../framework/meta-box-options.php:78 ../framework/meta-box-options.php:115
+#: ../framework/meta-box-options.php:166 ../framework/meta-box-options.php:218
+msgid "Select portfolio display column"
+msgstr ""
+
+#: ../framework/meta-box-options.php:83
+msgid "2 Column Portfolio"
+msgstr ""
+
+#: ../framework/meta-box-options.php:84
+msgid "3 Column Portfolio"
+msgstr ""
+
+#: ../framework/meta-box-options.php:85
+msgid "4 Column Portfolio"
+msgstr ""
+
+#: ../framework/meta-box-options.php:89
+msgid "Exclude Portfolio Categories"
+msgstr ""
+
+#: ../framework/meta-box-options.php:90 ../framework/meta-box-options.php:237
+msgid "Checked categories will be excluded from page display."
+msgstr ""
+
+#: ../framework/meta-box-options.php:100
+msgid "Display Portfolio Title Section"
+msgstr ""
+
+#: ../framework/meta-box-options.php:101
+msgid "Enable portfolio item title and excerpt/categories section."
+msgstr ""
+
+#: ../framework/meta-box-options.php:107
+msgid "Portfolio Item Title Font Size"
+msgstr ""
+
+#: ../framework/meta-box-options.php:108
+msgid ""
+"Enter portfolio title text font size <br />( only enter number e.g. 14  ) "
+msgstr ""
+
+#: ../framework/meta-box-options.php:114
+msgid "Portfolio Item Title Font Weight"
+msgstr ""
+
+#: ../framework/meta-box-options.php:120
+msgid "Normal"
+msgstr ""
+
+#: ../framework/meta-box-options.php:125
+msgid "Add link on Portfolio Title Text"
+msgstr ""
+
+#: ../framework/meta-box-options.php:126
+msgid "Enable permalink on portfolio title text"
+msgstr ""
+
+#: ../framework/meta-box-options.php:132
+msgid "Display Excerpt or Category Names"
+msgstr ""
+
+#: ../framework/meta-box-options.php:133
+msgid "Select portfolio sort description text type or hide it"
+msgstr ""
+
+#: ../framework/meta-box-options.php:138
+msgid "Display Excerpt Text"
+msgstr ""
+
+#: ../framework/meta-box-options.php:139
+msgid "Display Category Names"
+msgstr ""
+
+#: ../framework/meta-box-options.php:140
+msgid "Hide Excerpt Text or Category Names"
+msgstr ""
+
+#: ../framework/meta-box-options.php:144
+msgid "Portfolio Item Excerpt Font Size"
+msgstr ""
+
+#: ../framework/meta-box-options.php:145
+msgid ""
+"Enter portfolio sort description text font size <br />( only enter number e."
+"g. 11  ) "
+msgstr ""
+
+#: ../framework/meta-box-options.php:151
+msgid "Display Read more link"
+msgstr ""
+
+#: ../framework/meta-box-options.php:152
+msgid "Enable read more link"
+msgstr ""
+
+#: ../framework/meta-box-options.php:158
+msgid "Display Images/Videos on Lightbox"
+msgstr ""
+
+#: ../framework/meta-box-options.php:159
+msgid ""
+"Enable lightbox feature (open large image in popup). If disable then link "
+"image to portfolio single page"
+msgstr ""
+
+#: ../framework/meta-box-options.php:165 ../framework/meta-box-options.php:217
+msgid "Pagination Style Column"
+msgstr ""
+
+#: ../framework/meta-box-options.php:177
+msgid "Pagination"
+msgstr ""
+
+#: ../framework/meta-box-options.php:178
+msgid "Add number to display portfolio items per page e.g. 12"
+msgstr ""
+
+#: ../framework/meta-box-options.php:194
+msgid "Testimonials Page Options"
+msgstr ""
+
+#: ../framework/meta-box-options.php:203
+msgid "Testimonials Display Column"
+msgstr ""
+
+#: ../framework/meta-box-options.php:204
+msgid "Select Testimonials Style"
+msgstr ""
+
+#: ../framework/meta-box-options.php:210
+msgid "1 Column"
+msgstr ""
+
+#: ../framework/meta-box-options.php:229
+msgid "Display Testimonials per page"
+msgstr ""
+
+#: ../framework/meta-box-options.php:230
+msgid "Add number to display testimonials items per page e.g. 12"
+msgstr ""
+
+#: ../framework/meta-box-options.php:236
+msgid "Exclude Testimonials Categories"
+msgstr ""
+
+#: ../framework/meta-box-options.php:247
+msgid "Display Sortable Horizontal Menu"
+msgstr ""
+
+#: ../framework/meta-box-options.php:248
+msgid "Enable Sortable Menu"
+msgstr ""
+
+#: ../framework/meta-box-options.php:266
+msgid "Archives Page Options"
+msgstr ""
+
+#: ../framework/meta-box-options.php:275
+msgid "Display Latest Posts"
+msgstr ""
+
+#: ../framework/meta-box-options.php:276
+msgid "Add number to display latest blog posts in the table e.g. 12"
+msgstr ""
+
+#: ../framework/meta-box-options.php:282
+msgid "Display Archives by Month"
+msgstr ""
+
+#: ../framework/meta-box-options.php:283
+msgid "Enable archives by months list."
+msgstr ""
+
+#: ../framework/meta-box-options.php:289
+msgid "Display Archives by Categories"
+msgstr ""
+
+#: ../framework/meta-box-options.php:290
+msgid "Enable archives by categories list."
+msgstr ""
+
+#: ../framework/meta-box-options.php:307
+msgid "Post Options"
+msgstr ""
+
+#: ../framework/meta-box-options.php:313
+msgid "Add YouTube/Vimeo video embed or embedded code"
+msgstr ""
+
+#: ../framework/meta-box-options.php:314
+msgid "Default embed video width - 616"
+msgstr ""
+
+#: ../framework/meta-box-options.php:325
+msgid "Page Options"
+msgstr ""
+
+#: ../framework/meta-box-options.php:337
+msgid "Select Site Layout"
+msgstr ""
+
+#: ../framework/meta-box-options.php:343
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../framework/meta-box-options.php:344
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: ../framework/meta-box-options.php:351
+msgid "Page Content"
+msgstr ""
+
+#: ../framework/meta-box-options.php:355
+msgid "Content Layout"
+msgstr ""
+
+#: ../framework/meta-box-options.php:362
+msgid "Page Content Top Padding"
+msgstr ""
+
+#: ../framework/meta-box-options.php:363
+msgid ""
+"Enter content top padding value in pixels or em( Example: 20px, 30px, 1em, "
+"2em). Leave it empty for default value."
+msgstr ""
+
+#: ../framework/meta-box-options.php:369
+msgid "Page Content Bottom Padding"
+msgstr ""
+
+#: ../framework/meta-box-options.php:370
+msgid ""
+"Enter content bottom padding value in pixels or em( Example: 20px, 30px, "
+"1em, 2em). Leave it empty for default value."
+msgstr ""
+
+#: ../framework/meta-box-options.php:383
+msgid "Enable Page title"
+msgstr ""
+
+#: ../framework/meta-box-options.php:389
+msgid "Page Title Color"
+msgstr ""
+
+#: ../framework/meta-box-options.php:395
+msgid "Page Title Background Color"
+msgstr ""
+
+#: ../framework/meta-box-options.php:413 ../framework/meta-box-options.php:417
+msgid "Header Style"
+msgstr ""
+
+#: ../framework/meta-box-options.php:422
+msgid "Standard - Title with Background"
+msgstr ""
+
+#: ../framework/meta-box-options.php:423
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../framework/meta-box-options.php:424
+msgid "Google Map"
+msgstr ""
+
+#: ../framework/meta-box-options.php:428
+msgid "Header Background Color"
+msgstr ""
+
+#: ../framework/meta-box-options.php:429 ../framework/meta-box-options.php:546
+msgid ""
+"If you do not want to upload background image then add background color value"
+msgstr ""
+
+#: ../framework/meta-box-options.php:435
+msgid "Header Background Image"
+msgstr ""
+
+#: ../framework/meta-box-options.php:436 ../framework/meta-box-options.php:512
+msgid ""
+"Upload background image to display in this page (recommended size : "
+"<strong>1920x1280</strong>)<br /> <strong>Note:</strong> Only upload/add "
+"single image"
+msgstr ""
+
+#: ../framework/meta-box-options.php:441
+msgid "Header Background Position"
+msgstr ""
+
+#: ../framework/meta-box-options.php:448
+msgid "Header Background Repeat"
+msgstr ""
+
+#: ../framework/meta-box-options.php:455
+msgid "Header Background Attachment"
+msgstr ""
+
+#: ../framework/meta-box-options.php:462
+msgid "100% Header Background Image Width"
+msgstr ""
+
+#: ../framework/meta-box-options.php:468
+msgid "Parallax Scrolling"
+msgstr ""
+
+#: ../framework/meta-box-options.php:489
+msgid "Enter header height in <strong>number</strong> Example: 300,500,800"
+msgstr ""
+
+#: ../framework/meta-box-options.php:492
+msgid "Add Revolution Slider Shortcode"
+msgstr ""
+
+#: ../framework/meta-box-options.php:493
+msgid ""
+"Add revolution slider shortcode e.g. [rev_slider revolution]<br /> You have "
+"to install revolution slider plugin and generate shortcode "
+msgstr ""
+
+#: ../framework/meta-box-options.php:499
+msgid "Google Map Link"
+msgstr ""
+
+#: ../framework/meta-box-options.php:500
+msgid ""
+"<a href=\"https://www.youtube.com/watch?v=HjZHkEWTCYg\" target=\"_blank"
+"\">Video tutorial to get google map embed code</a>"
+msgstr ""
+
+#: ../framework/meta-box-options.php:511
+msgid "Body Background Image"
+msgstr ""
+
+#: ../framework/meta-box-options.php:517
+msgid "Body Background Position"
+msgstr ""
+
+#: ../framework/meta-box-options.php:524
+msgid "Body Background Repeat"
+msgstr ""
+
+#: ../framework/meta-box-options.php:531
+msgid "Body Background Attachment"
+msgstr ""
+
+#: ../framework/meta-box-options.php:539
+msgid "100% Body Background Image Width"
+msgstr ""
+
+#: ../framework/register-widgets.php:6
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:15
+msgid "Portfolio Single Page Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:24
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../framework/register-widgets.php:33
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../framework/register-widgets.php:42
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../framework/register-widgets.php:51
+msgid "Footer Column 4"
+msgstr ""
+
+#: ../framework/register-widgets.php:60
+msgid "Footer Column 5"
+msgstr ""
+
+#: ../framework/register-widgets.php:69
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:78
+msgid "Product Single Page Sidebar"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:305
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:107
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:306
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:108
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:307
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:109
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:308
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:110
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:121
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:372
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3082
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:122
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2902
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:376
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1939
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2220
+msgid "Required"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2223
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2244
+msgid "External Source"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2248
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2267
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2271
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Active"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2279
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2282
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2285
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2293
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2346
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2350
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2354
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "unknown"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2455
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2463
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2475
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2499
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2515
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2516
+msgid "Source"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2517
+msgid "Type"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2521
+msgid "Version"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2522
+msgid "Status"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2558
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2564
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2570
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2674
+msgid "Install"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2680
+msgid "Update"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2683
+msgid "Activate"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2715
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2753
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2755
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3081
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3420
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3424
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3425
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3429
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3430
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3431
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3432
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3436
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3438
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3439
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm-plugin-activation/custom-plugin-activation.php:123
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../loop-standard-grid.php:55
+msgid "No Posts found."
+msgstr ""
+
+#: ../page.php:20 ../templates/100-width.php:18
+msgid "Pages: "
+msgstr ""
+
+#: ../page.php:25 ../single.php:43 ../templates/100-width.php:23
+msgid "Next Page "
+msgstr ""
+
+#: ../page.php:26 ../single.php:44 ../templates/100-width.php:24
+msgid "Previous Page "
+msgstr ""
+
+#: ../templates/archives.php:88
+msgid "Archives by Month:"
+msgstr ""
+
+#: ../templates/archives.php:101
+msgid "Archives by Categories:"
+msgstr ""
+
+#: ../tribe-events/day/single-event.php:79
+#: ../tribe-events/list/single-event.php:79
+#: ../tribe-events/pro/map/single-event.php:79
+msgid "Read more "
+msgstr ""
+
+#: ../tribe-events/single-event.php:37
+msgid "START"
+msgstr ""
+
+#: ../tribe-events/single-event.php:46
+msgid "END"
+msgstr ""
+
+#: ../tribe-events/single-event.php:55
+msgid "VENUE"
+msgstr ""
+
+#: ../tribe-events/single-event.php:64
+msgid "TICKET PRICE"
+msgstr ""
+
+#: ../tribe-events/single-event.php:106
+msgid "Event Navigation"
+msgstr ""
+
+#: ../tribe-events/swm-custom/swm-event-functions.php:48
+msgid "VENUE MAP"
+msgstr ""
+
+#: ../tribe-events/swm-custom/swm-event-functions.php:96
+msgid "Venue"
+msgstr ""
+
+#: ../tribe-events/swm-custom/swm-event-functions.php:113
+msgid "Phone:"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:28
+msgid "Shop Featured Products Page Options"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:35
+msgid "Shop Layout"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:40
+msgid "Select layout for Shop page"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:46
+msgid "How Many Products Per Page?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:48
+msgid "Enter number of products to display per page"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:55
+msgid "Products Column"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:60
+msgid "Select column number to display products in shop page"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:71
+msgid "Product Single (Overview) Page Options"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:77
+msgid "Product Overview Layout"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:82
+msgid "Select layout for product single page"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:88
+msgid "Display Next Previous links"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:91
+msgid "Enable next previous arrows on right side beside product title"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:97
+msgid "Gallery Images Column"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:102
+msgid "Select column number to display thumanail images below large image"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:114
+msgid "Related Products Column"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:119
+msgid "Select column number to display Related products"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:125
+msgid "How Many Related Items?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:129
+msgid ""
+"How many related products you want to display in the page, below product "
+"description section?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:136
+msgid "Up-Sells Products Column"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:141
+msgid "Select column number to display Up-Sells products"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:147
+msgid "How Many Up-Sells Items?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:151
+msgid ""
+"How many Up-Sells products you want to display in the page, below product "
+"description section?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:164
+msgid "Cart Page Options"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:170
+msgid "Cross-Sells Products Column"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:175
+msgid "Select column number to display Cross-Sells products"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:181
+msgid "How Many Cross-Sells Items?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:185
+msgid ""
+"How many Cross-Sells products you want to display in the cart page, below "
+"Calculate Shipping and Order Total tables?"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:198
+msgid "Sale Badge Options"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:205
+msgid "Sale Badge Background Color"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:207
+msgid "Select \"sale\" badge background color"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:214
+msgid "Sale Badge Font Color"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-admin-options.php:216
+msgid "Select \"sale\" badge font color"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:16
+msgid "Default Order"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:17
+msgid "Name"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:18
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:19
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:20
+msgid "Rating"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:21
+msgid "Popularity"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:22
+msgid "Sort Ascending"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:23
+msgid "Sort Descending"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:24
+msgid "Products"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:36
+msgid "Sort by"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:61
+msgid "Show"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:252
+msgid "Home"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:298
+msgid "Prev"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:413
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:413
+#, php-format
+msgid "%d item"
+msgstr ""
+
+#: ../woocommerce/swm-custom/woo-functions.php:499
+msgid "Search Products"
+msgstr ""
